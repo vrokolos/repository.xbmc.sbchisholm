@@ -19,7 +19,7 @@
 import Addon
 import os.path
 import re
-import simplejson as json
+import json
 import urllib, urllib2
 import xbmc
         
